@@ -31,12 +31,6 @@
 - `powerbi_integration`: Includes the Power BI file (.pbix) used to build the interactive dashboard.
 - `documentation`: Contains any additional documentation related to the project, such as data dictionaries or user guides.
 
-## Usage
-
-1. Clone the repository to your local machine.
-2. Navigate to the respective folders (`data_extraction`, `data_preparation`, `data_analysis`, `powerbi_integration`) to access the scripts and files.
-3. Follow the instructions provided in each folder to execute the necessary tasks.
-
 ## Contributors
 
 - [Channakeshava A R](https://github.com/CkIOW)
