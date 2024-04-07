@@ -27,7 +27,6 @@
 ## Repository Structure
 
 - `data_extraction`: Contains scripts or documentation related to the extraction of data from the source system.
-- `data_preparation`: Includes scripts or documentation for data preparation tasks, such as altering table structures.
 - `data_analysis`: Contains SQL queries used for data analysis and retrieval of insights.
 - `powerbi_integration`: Includes the Power BI file (.pbix) used to build the interactive dashboard.
 - `documentation`: Contains any additional documentation related to the project, such as data dictionaries or user guides.
